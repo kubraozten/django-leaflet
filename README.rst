@@ -1,5 +1,6 @@
 ==============
 Django Leaflet
+
 ==============
 
 See the `documentation <https://django-leaflet.readthedocs.io/en/latest/>`_ for more information.
